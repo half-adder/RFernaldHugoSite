@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>localhost/posts/</loc>
+    <lastmod>2023-06-28T13:03:37-04:00</lastmod>
+  </url><url>
+    <loc>localhost/</loc>
+    <lastmod>2023-06-28T13:03:37-04:00</lastmod>
+  </url><url>
+    <loc>localhost/posts/test-post/</loc>
+    <lastmod>2023-06-28T13:03:37-04:00</lastmod>
+  </url><url>
+    <loc>localhost/categories/</loc>
+  </url><url>
+    <loc>localhost/tags/</loc>
+  </url>
+</urlset>
