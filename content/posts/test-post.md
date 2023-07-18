@@ -5,7 +5,5 @@ draft: false
 ---
 
 {{< rawhtml >}}
-<script>
-    alert("Script loaded!");
-</script>
+<script src="/js/example-sketch.js"></script>
 {{< /rawhtml >}}
