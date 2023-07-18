@@ -1,6 +1,0 @@
-baseURL = 'localhost'
-languageCode = 'en-us'
-title = 'Roberts test site'
-theme = 'ananke'
-[markup.goldmark.renderer]
-unsafe= true
